@@ -1,0 +1,15 @@
+.colomn{
+    margin-top: 25px;
+    margin-right: 1vw;
+    text-align: center;
+}
+
+a{
+    color: black;
+
+}
+
+a:hover{
+    color: red;
+    cursor: pointer;
+}
